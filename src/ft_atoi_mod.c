@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi_mod.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: stena-he <stena-he@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: tbolkova <tbolkova@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/10/14 01:57:06 by stena-he          #+#    #+#             */
-/*   Updated: 2022/10/17 19:55:32 by stena-he         ###   ########.fr       */
+/*   Created: 2023/04/03 10:44:55 by tbolkova          #+#    #+#             */
+/*   Updated: 2023/04/03 10:44:57 by tbolkova         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

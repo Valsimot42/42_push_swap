@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   final_sort.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: stena-he <stena-he@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: tbolkova <tbolkova@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/10/11 22:47:01 by stena-he          #+#    #+#             */
-/*   Updated: 2022/10/12 00:12:54 by stena-he         ###   ########.fr       */
+/*   Created: 2023/04/03 10:44:47 by tbolkova          #+#    #+#             */
+/*   Updated: 2023/04/03 10:44:49 by tbolkova         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

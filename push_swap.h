@@ -6,7 +6,7 @@
 /*   By: tbolkova <tbolkova@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/05 13:03:10 by tbolkova          #+#    #+#             */
-/*   Updated: 2023/04/02 18:32:41 by tbolkova         ###   ########.fr       */
+/*   Updated: 2023/04/02 18:55:05 by tbolkova         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,7 +30,6 @@ typedef struct s_stack
 	int				cost_b;
 	struct s_stack	*next;
 }					t_stack;
-
 
 // Parse arguments
 t_stack		*parse_args(char **argv, int is_string);

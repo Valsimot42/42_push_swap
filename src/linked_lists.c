@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   linked_lists.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: stena-he <stena-he@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: tbolkova <tbolkova@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/28 12:27:35 by stena-he          #+#    #+#             */
-/*   Updated: 2022/10/11 19:58:20 by stena-he         ###   ########.fr       */
+/*   Created: 2023/04/03 10:45:28 by tbolkova          #+#    #+#             */
+/*   Updated: 2023/04/03 10:45:30 by tbolkova         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parse_args.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: stena-he <stena-he@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: tbolkova <tbolkova@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/09/27 23:25:09 by stena-he          #+#    #+#             */
-/*   Updated: 2022/10/14 17:20:16 by stena-he         ###   ########.fr       */
+/*   Created: 2023/04/03 10:45:42 by tbolkova          #+#    #+#             */
+/*   Updated: 2023/04/03 10:45:44 by tbolkova         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

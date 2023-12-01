@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   exec_actions.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: stena-he <stena-he@student.42wolfsburg.    +#+  +:+       +#+        */
+/*   By: tbolkova <tbolkova@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/10/11 22:45:18 by stena-he          #+#    #+#             */
-/*   Updated: 2022/10/12 00:04:48 by stena-he         ###   ########.fr       */
+/*   Created: 2023/04/03 10:48:31 by tbolkova          #+#    #+#             */
+/*   Updated: 2023/04/03 10:49:33 by tbolkova         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
